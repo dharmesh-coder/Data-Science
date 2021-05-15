@@ -1,0 +1,20 @@
+Create a database comprising three tables as stated below in both MySql and Sql Server environment:
+(i) Employee(Empno,Ename,Designation,MGR_No,DOJ,DOB,Salary,Deptno
+(ii) Salgrade(Min_Sal,Max_Sal, Grade)
+(iii) Deptt(Dptno, Dptname, Location,Project) 
+Connecting to Databases Connect to any available MYSQLand SQL SERVER one after another and perform queries as directed below: 
+1. List all information from each of the tables 
+2. List all employees who earn a salary between 15000 and 25000 
+3. List the Salary and Grade of all officers. 
+4. List the names of all clerks in department 30 
+5. Display all employee names which have RA or SU in them 
+6. Display Name Designation and Salary of all employees who have a manager 
+7. Show the average salary of all departments employing more than three people. 
+8. Show the designation and salary of the jobs where the maximum salary is more than 75000. 
+9. List the minimum and maximum salary for each designation. 
+10. List Empno, Ename,Dptname and Project of all the managers. 
+11. Show Ename,Salary and Dptno of those employees who earn the lowest salary in their department. 
+12. Show the employee details of the employees who have no managers. 
+13. Show the employees who will either complete 35 years in service or 60 years in age after six months from the current date. 
+14. Show the details of top 3 salary earners in the company. 
+15. Show the details of most recently hired employees in each Department ordered by hire date.

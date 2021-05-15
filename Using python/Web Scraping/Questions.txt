@@ -1,0 +1,8 @@
+Question 1.
+Consider the link of Techno India University: https://www.technoindiauniversity.ac.in/.
+Scrape this webpage in both R and Python to extract the text written about each of the schools under this
+university.
+
+Question 2:
+Consider the link: https://www.mohfw.gov.in/. Scrape this webpage in both R and Python to determine state wise
+information available about COVID-19 Pandemic.

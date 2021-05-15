@@ -1,0 +1,73 @@
+1. Suppose there are twelve multiple choice questions in an English class
+quiz. Each question has five possible answers, and only one of them is
+correct. Find the probability of having four or less correct answers if a
+student attempts to answer every question at random. 
+
+2. The incidence of occupational disease in an industry is such that the
+workers have a 20% chance of suering from it. What is the
+probability that out of six workers chosen at random, four or more will
+suffer from the disease? 
+
+3. Suppose that weather records show that on the average 5 out of
+31days in October are rainy days. Assuming a binomial distribution
+with each day of October as an independent trial, find the probability
+that the next October will have at most three rainy days.
+
+4. A car hire firm has two cars which it hires out day by day. The
+number of demands for a car on each day is distributed as a Poisson
+variate with mean 1.5. Calculate the proportion of days on which (i)
+neither car is used and (ii) some demand is refused.
+Answer: (i) 0.2231, (ii) 0.19126
+
+5. A manufacturer of cotter pins knows that 5% of his product is
+defective. If he sells cotter pins in boxes of 100 and guarantees that
+not more than 10 pins will be defective, what is the approximate
+probability that a box will fail to meet the guaranteed quality?
+
+6. Suppose that the number of telephone calls coming into a telephone
+exchange between 10 A.M. and 11 A.M., say, X1 is a random variable
+following Poisson distribution with parameter 2. Similarly, the number
+of calls arriving between 11 A.M. and 12 noon, say, X2 follows a
+Poisson distribution with parameter 6. If X1 and X2 are independent,
+what is the probability that more than 5 calls come in between 10
+A.M. and 12 noon? 
+
+7. Patients arrive randomly and independently at a doctor's surgery from
+8 a.m. at an average rate one in five minutes. The waiting room
+holds 12 persons. What is the probability that the room will be full
+when the doctor arrives at 9 a.m.
+
+8. Assume that the test scores of a college entrance exam fit a normal
+distribution. Furthermore, the mean test score is 72, and the standard
+deviation is 15.2. What is the percentage of students scoring 84 or
+more in the exam? 
+
+9. The mean yield for one-acre plot is 662 kilos with a s.d. of 32 kilos.
+Assuming normal distribution, how many one-acre plots in a batch of
+1000 plots would you expect to have yield (i) over 700 kilos, (ii)
+below 650 kilos ?
+
+10. The marks obtained by a number of students for a certain subject are
+assumed to be approximately normally distributed with mean value 65
+and s.d. 5. If 3 students are taken at random from the set, what is
+the probability that exactly 2 of them will have marks over 70? 
+
+11. Daily demand for a certain product is normally distributed with a
+mean 125 and a standard deviation of 17.
+1. What is the probability that the demand in a day will exceed 150?
+2. What is the probability that the demand in a day will be less than 85?
+Less than80?
+
+12. A fast food restaurant gets an average of 2.8 customers approaching
+the register every minute. Assuming the number of customers
+approaching the register per minute follows a Poisson distribution,
+what is the probability that 4 customers approach the register in the
+next minute?Round your answer to 3 decimal places.
+
+
+13. A statistician records the number of cars that approach an
+intersection. He finds that an average of 1.6 cars approach the
+intersection every minute. Assuming the number of cars that
+approach this intersection follows a Poisson distribution, what is the
+probability that 3 or more cars will approach the intersection within a
+minute?

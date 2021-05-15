@@ -1,0 +1,21 @@
+Problem A
+1. Create a data frame containing data of students of an institution with
+values on the following attributes: ID , Name ,Gender , DO-Birth, DO-
+Admission, Payment-Made MP-Percentage and HS-Percentage
+2.Create another data frame containing data on Total Employment Place-
+ment on the following attributes: YEAR, STREAM and Total-Count.
+3.Perform the following computations in R as well as in python:
+1 Obtain the
+Mean Percentage of admitted students at Madhyamik Exam
+2 Obtain
+Median Percentage of admitted students at Madhyamik Exam
+3 Obtain the mean of the percentages obtained by the male students in
+the Madhyamik
+4 Obtain the means for boys and girls separately.
+5 Obtain stream-wise mean employment during the last four years as
+per the available data in CAMPUS EPLOYMENT
+6 Obtain the mean ages of the admitted students in days
+7 Obtain the mean ages of the admitted male students in days
+8 Obtain the mean age of the male students in years and rounded years.
+9 Obtain the summary of information in both the tables of data.
+10 Obtain the proportion of male and female students

@@ -1,0 +1,51 @@
+Problem-1
+Assume that you have many tab-separated text files in your current directory
+of R/Python.Write codes in R/Python to perform the following tasks:
+During execution of your code, you can choose the file that you would like to read.
+Read the chosen file.
+Load the Vector of the text as a Corpus.
+Replace the special characters @,!,#, /, @ and | with a space.
+Remove all the numerals as well as English stopwords from the text.
+Remove the unnecessary whitespaces from the text and then convert the text to lower case.
+Remove all the occurrences of the words 'Company','Manager' and 'Assistant',if any, from the text and finally remove
+all the punctuation marks.
+Count the occurrence of each word, to identify popular or trending topics in the cleaned text and then show the top five
+most frequent words and their frequencies.
+Plot the top 5 most frequent words in the cleaned text using a bar chart to visualize the frequent words.
+Generate the word cloud of the words that occur 5 or more times in the text.
+Perform a sentiment analysis of the cleaned text and show the result.
+Perform an emotion analysis of the words in the lemmatized text.
+
+
+Problem-2
+An HTML file exists at http://www.analytictech.com/mb021/mlk.htm Inspect the corpus
+after text cleaning and word stemming. Show only the first 20 words and
+their frequencies in each document from the document term matrix and
+perform the following:
+1 Find out the terms with minimum frequency 5 or more.
+2 Find out the terms having a correlation coefficient of .7 or more with
+the word 'life'.
+3 Remove the sparse terms from the document term matrix with
+correlation coefficient .3 or less.
+4 Show the common terms (Terms with less sparsity)
+5 Repeat the steps 3 and 4 above until a sparsity of 5% is achieved.
+
+Problem-3
+An article published by the International Court of Justice on LEGAL
+CONSEQUENCES OF THE SEPARATION OF THE CHAGOS ARCHIPELAGO
+FROM MAURITIUS IN 1965 is available as a pdf at `https://www.icj-
+cij.org/files/case-related/169/169-20190225-01-00-EN.pdf'. Also, the
+opinions of The Supreme Court of the United States from the 2014 are
+available at ` http://www.supremecourt.gov/opinions/slipopinion/14'.
+Create a folder/directory to contain all the pdf files. Now, automate the
+process of reading all the text of the PDF files analyze. Now, clean up and
+analyze the text in the files for the following:
+1 Inspect the TDM and observe what it looks like,
+2 Find out the frequent terms with minimum value of 100.
+3 Show the total counts for the frequent terms in each of the documents and
+apply the sum function across the row to show the sums in descending order.
+4 Find out the number of terms in the documents having a correlation
+coefficient more than .8 with the word `state'.
+5 Take any word document preferably a set of data recorded in a number of
+columns like that shown in Facebook postings of the study materials. Use
+the data for text mining.
